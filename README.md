@@ -1,7 +1,6 @@
 # 365 Connection Module
 
-## The second largest heading
-How To:
+## How To
 
 Copy connect365 folder to (You can change or add personal Locations): 
 C:\Program Files\WindowsPowerShell\Modules
